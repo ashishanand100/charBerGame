@@ -1,5 +1,5 @@
 # charBerGame
-Online Play Game Link -https://pawansaini020.github.io/CharBerGame/
+Online Play Game Link -https://github.com/ashishanand100/charBerGame.git
 
 Tools and language:
 1. Javascript
