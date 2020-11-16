@@ -1,5 +1,5 @@
 # charBerGame
-Online Play Game Link - https://pawansaini020.github.io/CharBerGame/
+Online Play Game Link - https://ashishanand100.github.io/CharBerGame/
 
 Tools and language:
 1. Javascript
@@ -14,5 +14,5 @@ Tools and language:
 
 
 You are welcome for any open contribution or any queries.
-1. Github Id: @pawansaini020
-2. Email Id: ps21@iitbbs.ac.in
+1. Github Id: @ashishanand100
+2. Email Id: aa15@iitbbs.ac.in
